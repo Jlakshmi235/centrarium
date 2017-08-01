@@ -19,14 +19,6 @@ html, body {
 	width: 100%;
 }
 
-ol.default {
-  @extend %default-ol;
-}
-
-ul.default {
-	@extend %default-ul;
-}
-
 code {
 	background-color: #eee;
 	display: inline-block;
@@ -162,6 +154,14 @@ pre code.hljs {
       display: block;
     }
   }
+
+	ol.default {
+	  @extend %default-ol;
+	}
+
+	ul.default {
+		@extend %default-ul;
+	}
   // Nav items
   ul li.nav-link {
     display: block;
