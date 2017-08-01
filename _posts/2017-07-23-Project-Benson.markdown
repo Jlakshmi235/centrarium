@@ -103,6 +103,8 @@ Although, sending the WTWY street teams to the busiest stations would result in 
 1. 42 ST-BRYANT PK BDFM7 <br/>
 1. CHAMBERS ST ACE23 <br/>
 
+Many of the top stations stayed the same after the re-ranking, but some showed a large change due to a smaller number of target commuters. Typically the percentage of residents around the stations with Bachelors was in 30-40’s range, graduate degree percentages were also in the 30-40’s, and percentage of careers in professional and scientific industries in the 10-20’s. But, as an example, Flushing-Main St. (Line 7) is in a neighborhood with residents having significantly fewer Bachelor degrees (17%), graduate degrees (8.1%), and careers in professional and scientific industries (9.1%). While Flushing-Main St. was the eight busiest station, it dropped to the 22nd top station of targeted commuters.
+
 We compared our stations to the 10 stations with the most overall traffic.  
 <strong>By going to the stations in our list, WTWY teams will see 9% fewer commuters, resulting in 5% fewer females.
 However, these are targeted commuters, so you are projected to see:  
