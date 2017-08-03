@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project 1 @ Metis Completed"
+title:  "Project 1 @ Metis Complete"
 date:   2017-07-15 11:49:45 +0200
 categories: project
 ---
