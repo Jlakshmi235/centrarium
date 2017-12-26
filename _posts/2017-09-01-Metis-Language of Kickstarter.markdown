@@ -1,9 +1,11 @@
 ---
+title: The Language of Kickstarter
+date: 2017-09-01 09:49:45 Z
+categories:
+- project
 layout: post
-title:  "The Language of Kickstarter"
-date:   2017-09-01 11:49:45 +0200
-categories: project
 ---
+
 <style type="text/css">
 	ul.a {
     list-style-type: circle;

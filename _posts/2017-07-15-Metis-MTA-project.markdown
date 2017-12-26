@@ -1,9 +1,11 @@
 ---
+title: Project 1 @ Metis Complete
+date: 2017-07-15 09:49:45 Z
+categories:
+- project
 layout: post
-title:  "Project 1 @ Metis Complete"
-date:   2017-07-15 11:49:45 +0200
-categories: project
 ---
+
 <style type="text/css">
 	ul.a {
     list-style-type: circle;
